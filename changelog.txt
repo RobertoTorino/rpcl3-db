@@ -1,2 +1,1 @@
-Added new entries for NAMCO357 arcade games.
-Added some icons in the Icon0 column.
+Fixed wrong icons.
